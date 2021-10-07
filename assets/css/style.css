@@ -1,0 +1,16 @@
+header {
+    background: #434343;
+    color: #dadada;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+nav a {
+    color: #dadada;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+}
